@@ -1,3 +1,4 @@
+/*Color scheme chosen to provide good contrast with page background; Contrast*/
   body{
   background-color: #3891A6;
   font-family: arial, sans-serif;
@@ -11,12 +12,13 @@
   padding: 12px 10px;
 
   }
+/*Added to make the area containing text and pictures stand out from the rest of the page; Contrast*/
 
 h1 {
   margin-bottom: .5em;
   margin-block-end: .5em;
 }
-
+/*Added to bring the heading closer to the text underneath it; Proximity*/
 h2{
   margin-block-end: .5em;
   margin-bottom: .25em;
@@ -35,11 +37,13 @@ blockquote{
   margin-left: 0;
 
 }
+/*Added the blockqoute and changed the color to differentiate this section from the rest of the text; Contrast*/
 
 .image{
 text-align: center;
 margin: 2em 0;
 }
+/*Added to reduce space between images and to center images; however images did not center until the img at the bottom was edited. Proximity*/
 
 ul {
   padding-left: 20px;
@@ -72,3 +76,4 @@ p {
   margin-left: auto;
   margin-right: auto;
   }
+  /*These attributes allowed the images on the page to be centered; Alignment*/
