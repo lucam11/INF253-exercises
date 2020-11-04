@@ -1,0 +1,60 @@
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+/*These attributes allowed the images on the page to be centered; Alignment*/
+
+#question {
+  font-size: 28px;
+  color: #E63946;
+}
+
+#questiontitle {
+  font-size: 22px;
+  text-align: center;
+  color: #457B9D
+}
+
+#contactinfo {
+  font-size: 22px;
+  text-align: center;
+}
+
+.title {
+  font-weight: italic;
+  text-align: center;
+}
+
+blockquote {
+  font-size: 22px;
+  margin-right: auto;
+  margin-left: auto;
+  padding:11px;
+  color: #457B9D;
+}
+
+h1 {
+  text-align: center;
+  color: #E63946;
+}
+
+body {
+background-color: #1D3557;
+}
+
+.wrapper {
+background: #F7F7FF;
+width: 92%;
+max-width:800px;
+margin: 0 auto;
+padding: 12px 10px;
+}
+.caption {
+  font-style: italic;
+  text-align: center;
+  margin-top: .25em;
+  font-size: 10px;
+}
