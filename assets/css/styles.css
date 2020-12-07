@@ -5,12 +5,21 @@
   }
 
   .wrapper{
-  background: #264653;
+  /*background-color: #264653;*/
+  background-image: url(../images/leaves.png)
   width: 92%;
   max-width:800px;
   margin: 0 auto;
   padding: 12px 10px;
 
+  }
+
+  .wrapper2{
+    background-color: #264653;
+    width: 92%;
+    max-width:800px;
+    margin: 0 auto;
+    padding: 12px 10px;
   }
 /*Added to make the area containing text and pictures stand out from the rest of the page; Contrast*/
 
@@ -77,3 +86,15 @@ p {
   margin-right: auto;
   }
   /*These attributes allowed the images on the page to be centered; Alignment*/
+
+  header{
+    background-image: url(../images/leaves.png);
+    border-bottom: 3px solid #061317;
+    text-align: center;
+  }
+  footer{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border-top: 2px solid #061317;
+  }
